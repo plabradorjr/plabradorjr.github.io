@@ -1,11 +1,11 @@
 # Site settings
 author: Pancho Labrador Jr.
-title: Rage Quit
+title: Rage Code
 header-img: img/home-bg.png
 email: plabradorjr@gmail.com
 copyright_name: Pancho Labrador Jr.
 description: > # this means to ignore newlines until "baseurl:"
-  When you open a bag of chips and there are only 6.5 chips inside
+  yolo
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  plabradorjr
