@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Why learn software development?"
-date:       2019-11-13 00:00:10 +0000
+date:       2019-11-12 19:00:10 -0500
 permalink:  why_learn_software_development
 ---
 
 
 <hr>
 
-<center>![](https://shill.lol/wp-content/uploads/2019/11/why_learn.jpg)</center>
+![](https://shill.lol/wp-content/uploads/2019/11/why_learn.jpg)
 
 
 When asked what we want in life, we all pretty much have the same answers. To be financially stable, to have awesome relationships, to have a fulfilling career, to have good health, to contribute to society, to be happy, to have freedom, etc. 
@@ -26,7 +26,7 @@ After over 6 years working as a registered nurse, I can no longer count the code
 
 On my days off, I tend to gravitate towards learning how to build websites. The first website I built was a study guide for student nurses. The goal was to help students pass their local college exams and eventually the board exam with less stress. When I first thought about building that project, I had no clue where to start. I know nothing.
 
-<center>![](https://media.giphy.com/media/13f5iwTRuiEjjW/giphy.gif)</center>
+![](https://media.giphy.com/media/13f5iwTRuiEjjW/giphy.gif)
 
 I first tried to learn basic HTML and CSS. Luckily, I discovered Wordpress and it solved all my immediate problems. For someone with no coding background, it was like discovering Nirvana. Music to my ears. Caviar on my plate. You get the metaphor. With todays tools, I experienced how simple it could be to create a minimum viable website with Wordpress and plug-ins, while not knowing how to code.
 
@@ -34,7 +34,7 @@ I first tried to learn basic HTML and CSS. Luckily, I discovered Wordpress and i
 
 Within a few months, I finished very first fully functioning website with responsive quizes, drip contents, membership tiers, PayPal/Stripe integration, monthly subscriptions, etc. Also got lucky to get a few users and paying customers. The idea in my head suddenly turned real, and it was a nice feeling. Woot! I do know some things now.
 
-<center>![](https://media.giphy.com/media/UWFfiDzt6qIh2/giphy.gif)</center>
+![](https://media.giphy.com/media/UWFfiDzt6qIh2/giphy.gif)
 
 
 Just like everyone else, I also realized how little I know. I made a website fast and alone. But after 2 years of leaving that site passive, the tradeoff to further develop the site wasn't impressive. I decided to take it down. 
@@ -47,10 +47,10 @@ I hope to build some pretty awesome software for the world. But desire doesn't r
 
 For the first time in a while, I'm excited again and I look forward to the future. 
 
-<center>![](https://miro.medium.com/max/500/1*XvFLlXkfeSii9WsxAdwEDQ.gif)</center>
+![](https://miro.medium.com/max/500/1*XvFLlXkfeSii9WsxAdwEDQ.gif)
 
 
-<center>I leave you with this:</center>
+I leave you with this:
 > “Our struggles determine our successes. So choose your struggles wisely, my friend.” -- Mark Manson
 
 
