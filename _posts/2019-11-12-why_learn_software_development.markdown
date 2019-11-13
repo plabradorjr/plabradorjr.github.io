@@ -30,9 +30,9 @@ On my days off, I tend to gravitate towards learning how to build websites. The 
 
 I first tried to learn basic HTML and CSS. Luckily, I discovered Wordpress and it solved all my immediate problems. For someone with no coding background, it was like discovering Nirvana. Music to my ears. Caviar on my plate. You get the metaphor. With todays tools, I experienced how simple it could be to create a minimum viable website with Wordpress and plug-ins, while not knowing how to code.
 
-###### It's easy to start, what's hard is to stay. 
+### It's easy to start, what's hard is to stay. 
 
-Within a few months, I finished very first fully functioning website with responsive quizes, drip contents, membership tiers, PayPal/Stripe integration, monthly subscriptions, etc. Also got lucky to get a few users and paying customers. The idea in my head suddenly turned real, and it was a nice feeling. Woot! I do know some things now.
+Within a few months, I finished my very first fully functioning website with responsive quizes, drip contents, membership tiers, PayPal/Stripe integration, monthly subscriptions, etc. Also got lucky to get a few users and paying customers. The idea in my head suddenly turned real, and it was a nice feeling. Woot! I do know some things now.
 
 ![](https://media.giphy.com/media/UWFfiDzt6qIh2/giphy.gif)
 
