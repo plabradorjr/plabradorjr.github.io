@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Illustrations of Objects, Classes, & Instances [Ruby]"
-date:       2019-11-13 00:00:32 +0000
+date:       2019-11-12 19:00:33 -0500
 permalink:  illustrations_of_objects_classes_and_instances_ruby
 ---
 
@@ -19,7 +19,7 @@ To solve that silly problem, I read/watched a bunch of other ruby docs and I mad
 
 
 
-<center>![](http://giphygifs.s3.amazonaws.com/media/R4mn3MfNRmlCU/giphy.gif)</center>
+![](http://giphygifs.s3.amazonaws.com/media/R4mn3MfNRmlCU/giphy.gif)
 
 
 
