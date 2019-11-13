@@ -28,7 +28,7 @@ To solve that silly problem, I read/watched a bunch of other ruby docs and I mad
 
 
 
-<center>![](https://shill.lol/wp-content/uploads/2019/11/objects_everywhere.jpg)</center>
+![](https://shill.lol/wp-content/uploads/2019/11/objects_everywhere.jpg)
 
 
 
@@ -39,7 +39,7 @@ To solve that silly problem, I read/watched a bunch of other ruby docs and I mad
 
 
 
-<center>![class_picture](https://shill.lol/wp-content/uploads/2019/11/cookie_cutter_class.jpg)</center>
+![class_picture](https://shill.lol/wp-content/uploads/2019/11/cookie_cutter_class.jpg)
 
 
 
@@ -56,7 +56,7 @@ To solve that silly problem, I read/watched a bunch of other ruby docs and I mad
 * There are also "Class methods/variable", but I won't go over that concept here. This post is just plain vanilla. Super basic.
 
 
-<center>![](https://shill.lol/wp-content/uploads/2019/11/class_eli5.jpg)</center>
+![](https://shill.lol/wp-content/uploads/2019/11/class_eli5.jpg)
 
 
 
@@ -65,7 +65,7 @@ To solve that silly problem, I read/watched a bunch of other ruby docs and I mad
 
 
 
-<center>![](https://shill.lol/wp-content/uploads/2019/11/rapper_instances.jpg)</center>
+![](https://shill.lol/wp-content/uploads/2019/11/rapper_instances.jpg)
 
 
 From this example, we defined one Rapper class, and specify only ***once*** that rapper instances should have a name and age variables. But each Rapper ***object*** will have its own name and age, different from all other rapper ***instances***. 
