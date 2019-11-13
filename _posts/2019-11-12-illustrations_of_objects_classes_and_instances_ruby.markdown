@@ -61,7 +61,7 @@ To solve that silly problem, I read/watched a bunch of other ruby docs and I mad
 
 
 
-## Now let's define a class to create many instances
+## Let's define a class to create many instances
 
 
 
@@ -102,7 +102,7 @@ end
 
 
 
-Now everytime you summon `Rapper.new`, a new instance of a rapper is born! Now that's gangstah. 
+Now everytime you summon `Rapper.new`, a new instance of a rapper is born! That's gangstah. 
 
 Hope you learned a tiny bit from my horrible analogies. If not, it's cool too. Thanks for reading. 
 
