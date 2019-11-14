@@ -10,7 +10,7 @@ This post assumes you already read over some materials about Ruby's objects, cla
 
 <hr>
 
-I had a problem. Grasping the concept of "instance" confused me. At first I thought it made sense, but then  the Collaborating Objects Labs came along and I got lost. 
+You ever got lost about what an "instance" is? You and I have that in common. *Virtual high five* 🤚. Grasping the concept of "instance" confused me at first. I thought it made sense, but then  the Collaborating Objects Labs came along and I got lost. 
 
 To solve that silly problem, I read/watched a bunch of other ruby docs and I made some visual notes to clarify how classes, objects, and instances all work together. 
 
