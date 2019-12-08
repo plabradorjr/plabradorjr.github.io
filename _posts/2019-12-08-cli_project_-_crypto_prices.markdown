@@ -1,0 +1,26 @@
+---
+layout: post
+title:      "CLI Project - Crypto Prices"
+date:       2019-12-08 12:58:46 +0000
+permalink:  cli_project_-_crypto_prices
+---
+
+ 
+
+
+Although this is a very small app, with very little commands, I finally felt like I was actually programming. 
+
+
+#### What does the CLI do?
+
+It scrapes coinmarketcap.com
+It creates an instance for each 100 coins listed on the homepage of coinmarketcap.com
+When you run the CLI, it will ask leading questions so you can interact with app.
+
+It's better explained on this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jGt6ev5CRK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Where's the code at?
+I made two brances, a master file and the other is a branch that is more aligned with flatiron requirements. 
+
