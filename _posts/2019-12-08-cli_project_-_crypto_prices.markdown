@@ -14,7 +14,7 @@ Although this is a very small app, with very little commands, I finally felt lik
 ## What does the CLI do?
 
 * It scrapes coinmarketcap.com. 
-* It creates an instance for each 100 coins listed on the homepage of coinmarketcap.com
+* It creates an instance for each 100 coins listed from the homepage of coinmarketcap.com
 * When you run the CLI, it will ask leading questions so you can interact with app.
 
 ## It's better explained on this video:
@@ -24,10 +24,10 @@ Although this is a very small app, with very little commands, I finally felt lik
 <br>
 
 ## Where's the code at?
-I made two brances, a master file and the other is a branch that is more aligned with flatiron requirements. 
+I made two branches, a master file and the other is a branch that is (I think) more aligned with flatiron requirements. 
 <br>
-[mater branch](https://github.com/plabradorjr/crypto_prices/tree/flatiron_requirement)
+* [Click here for: master branch](https://github.com/plabradorjr/crypto_prices/tree/flatiron_requirement)
 <br>
-[flatiron branch](https://github.com/plabradorjr/crypto_prices)
+* [Click here for: flatiron branch](https://github.com/plabradorjr/crypto_prices)
 <br>
-Hope you like it.
+
