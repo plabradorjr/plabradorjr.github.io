@@ -26,8 +26,8 @@ Although this is a very small app, with very little commands, I finally felt lik
 ## Where's the code at?
 I made two branches, a master file and the other is a branch that is (I think) more aligned with flatiron requirements. 
 <br>
-* [Click here for: master branch](https://github.com/plabradorjr/crypto_prices/tree/flatiron_requirement)
+* [Click here for: Flatiron branch](https://github.com/plabradorjr/crypto_prices/tree/flatiron_requirement)
 <br>
-* [Click here for: flatiron branch](https://github.com/plabradorjr/crypto_prices)
+* [Click here for: Master branch](https://github.com/plabradorjr/crypto_prices)
 <br>
 
