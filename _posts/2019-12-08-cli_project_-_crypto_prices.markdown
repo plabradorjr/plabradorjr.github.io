@@ -5,7 +5,11 @@ date:       2019-12-08 07:58:47 -0500
 permalink:  cli_project_-_crypto_prices
 ---
 
- 
+ <style>
+a.powrMarkLink.js-watermark.watermark-create-free {
+  visibility: hidden;
+}
+</style>
 ## What does this CLI do?
 
 * It scrapes coinmarketcap.com. 
