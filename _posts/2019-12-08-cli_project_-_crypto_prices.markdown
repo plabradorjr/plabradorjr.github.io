@@ -6,18 +6,14 @@ permalink:  cli_project_-_crypto_prices
 ---
 
  
-
-
-Although this is a very small app, with very little commands, I finally felt like I was actually programming. 
-
-
-## What does the CLI do?
+## What does this CLI do?
 
 * It scrapes coinmarketcap.com. 
 * It creates an instance for each 100 coins listed from the homepage of coinmarketcap.com
-* When you run the CLI, it will ask leading questions so you can interact with app.
+* It'll cryptocurrency prices, ranks, volumes, and such in a fancy looking colorized table. 
+* As you run the CLI, it will ask leading questions so you can interact with app.
 
-## It's better explained on this video:
+## Here's an explainer video:
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGt6ev5CRK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,4 +26,7 @@ I made two branches, a master file and the other is a branch that is (I think) m
 <br>
 * [Click here for: Master branch](https://github.com/plabradorjr/crypto_prices)
 <br>
+
+<hr>
+<div class="powr-comments" id="61f5672a_1580202349"></div><script src="https://www.powr.io/powr.js?platform=14"></script>
 
