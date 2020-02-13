@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Project 💔"
+title:      "Sinatra Project 💔 — Break it"
 date:       2020-02-12 22:07:38 -0500
 permalink:  sinatra_project
 ---
