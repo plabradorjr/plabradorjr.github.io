@@ -8,7 +8,7 @@ permalink:  sinatra_project
 
 For this project, I built an open-content collaborative database.  A simple content management system [(CMS)](https://en.wikipedia.org/wiki/Content_management_system).
 
-Live site: [https://surgi-app-v0.herokuapp.com](https://surgi-app-v0.herokuapp.com/home)
+Live site: [https://surgi-app-v0.herokuapp.com](https://surgi-app-v0.herokuapp.com/)
 
 
 
@@ -135,7 +135,7 @@ usage:
 ```
 
 
-I also passed all the username parameters to be stored in the databse as downcase, therefore making all username non-case sensitive. 
+I also passed all the username parameters to be stored in the database as downcase, therefore making all username non-case sensitive. 
 
 So far, I was **not** able to break this signup code:
 
@@ -176,7 +176,7 @@ Seriously. I really want to make this app to be safely operational.
 Here is the live beta website:
 
 
-[https://surgi-app-v0.herokuapp.com](https://surgi-app-v0.herokuapp.com/home)
+[https://surgi-app-v0.herokuapp.com](https://surgi-app-v0.herokuapp.com)
 
 
 Shoutout to @sunny from learn.co slack for making [this awesome video](https://www.youtube.com/watch?v=m_tRqz9wu_0). It helped me deploy my project to Heroku.
