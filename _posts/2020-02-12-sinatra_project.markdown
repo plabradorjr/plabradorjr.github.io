@@ -8,6 +8,9 @@ permalink:  sinatra_project
 
 For this project, I built an open-content collaborative database.  A simple content management system [(CMS)](https://en.wikipedia.org/wiki/Content_management_system).
 
+Live site: [https://surgi-app-v0.herokuapp.com](https://surgi-app-v0.herokuapp.com/home)
+
+
 
 ![project landing page](https://raw.githubusercontent.com/plabradorjr/blog_images/master/surgi_app_index.png)
 
@@ -40,6 +43,8 @@ A user also has a "user page" and only they can edit their own profile bio.
 
 ### Schema
 
+<hr>
+
 To build the schema, there are only two tables, a `users table` and a `notes table`.
 
 A `user` has_many `notes`.
@@ -48,9 +53,14 @@ And `notes` belongs_to `user`.
 
 ### Front-End
 
+<hr>
+
 I used Bootstrap for CSS. 
 
 ### Conventional RESTful urls
+
+<hr>
+
 
 `/users` => shows all registered users
 
@@ -62,6 +72,8 @@ I used Bootstrap for CSS.
 
 
 ### Gems
+
+<hr>
 
 The gems are the basics:
 
@@ -84,6 +96,9 @@ end
 ```
 
 ## Login Vulnerabilities
+
+<hr>
+
 
 While developing the login functionality, I noticed a lot of problems and vulnerabilities if the username is allowed to be case sensitive *and* allowed to use special characters. 
 
