@@ -75,22 +75,32 @@ I used Bootstrap for CSS.
 
 <hr>
 
-The gems are the basics:
+The gems are the basics. This  set up was successfully accepted by Heroku.
 
 ```
+source "https://rubygems.org"
+ruby "2.6.1"
+
+
 gem "sinatra"
 gem "activerecord", '<= 5.1'
 gem "sinatra-activerecord"
-gem "rake"
 gem "bcrypt"
 gem "require_all"
-gem "capybara"
-gem "pry"
-gem 'sqlite3', '~> 1.3.6'
-gem 'shotgun'
+gem 'rack-timeout', '0.3.2'
 
 group :development do
-  gem "tux"
+  gem 'sqlite3', '~> 1.3.6'
+  gem 'shotgun'
+  gem 'pry'
+end
+
+group :production do
+  gem 'pg', '~> 0.20'
+end
+
+group :development, :production do
+  gem 'rake'
 end
 
 ```
@@ -173,10 +183,7 @@ Shoutout to @sunny from learn.co slack for making [this awesome video](https://w
 
 If you can break it and find any vulnerabilities, please reach me on twitter @plabradorjr
 
-I'm sure we will learn more about better login/signup feature as we move along the curriculum. I'm excited to continually develop this app as I learn more features.
-
-
-Any feedback is appreciated. Thanks! @pancho on Learn.co Slack channel. It'd be a pleasure to hear from you. 
+I'm sure we will learn more about better login/signup feature as we move along the curriculum. I'm excited to develop this app as I learn more features. Any feedback is appreciated.  Thanks!
 
 
 
