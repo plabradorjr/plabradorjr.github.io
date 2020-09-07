@@ -1,13 +1,15 @@
 ---
 layout: post
 title:      "JavaScript Project"
-date:       2020-09-07 08:37:22 +0000
+date:       2020-09-07 04:37:23 -0400
 permalink:  javascript_project
 ---
 
 Figuring out what to build was tougher than I thought. Compared to my Ruby on Rails Project, I knew what I wanted to build while learning the materail so building the project took less time with brainstorming ideas. With this JavaScript project, I just went ahead and built a low effort, meme website.
 
 ## What is it?
+Here's the rep: https://github.com/plabradorjr/stock_js_project
+
 This One-Page Minimum Viable Product is designed for tracking the 24-hour top gainers of the US stock market. The backend scrapes Yahoo Finance, then stores the data into my own database. The rails backend then generates its own API for the frontend JavaScript to fetch. A user can then post a comment for the day's current top stock gainers. The data is refreshed and deleted daily.
 
 At this time, the narrative of the frontend is memetic. In the future, the skills I've used to make this MVP can scrape multiple data to generate a more useful stock trading insights.
