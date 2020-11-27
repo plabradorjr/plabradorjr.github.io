@@ -20,7 +20,7 @@ Why do we want to do something is the easy question. It’s asking for pleasure.
 
 That is a more important question but often makes people tilt their head, raise a unilateral eyebrow, and wonder what in the world does that even mean. 
 
-People want to play the guitar like a boss, but don’t want to go through the pain of consistently practicing chords. People want to climb the corporate ladder but don’t want the pain of long hours and office politics. People want the benefits, but not the cost. Those who are willing to go through the pain are the ones who reap the benefits. Many experts ultimately aim towards the best pain of their life. To most of these experts, what looks like hard work from the outside, is play from the inside. 
+People want to play the guitar like a rockstar, but don’t want to go through the pain of consistently practicing chords. People want to climb the corporate ladder but don’t want the pain of long hours and office politics. People want the benefits, but not the cost. Those who are willing to go through the pain are the ones who reap the benefits. Many experts ultimately aim towards the best pain of their life. To most of these experts, what looks like hard work from the outside, is play from the inside. 
 
 After over 6 years working as a registered nurse, I can no longer count the code blues and true medical emergency cases I've participated in. Life and death situations. As stressful they can be, it's these critical moments that you can make the biggest difference in someone's life. Moments like that bring meaning to my life. However, I'm choosing to change my struggles for now. I want to try a new branch of path that I think may be more aligned with my genuine curiosities, excitement, and intuition. 
 
