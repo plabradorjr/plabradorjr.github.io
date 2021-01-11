@@ -20,13 +20,13 @@ Long over due, but I'm finally submitting my final project. I think I lost a lot
 ## What does it do?
 It's an app for cryptocurrency and stocks data visualization.
 
-[Coingecko API](https://www.coingecko.com/api/documentations/v3) provides trending searches and I used that for the home page. Once the user clicks, it fetches two separate request to gather more data about a specific cryptocurrency. The first request is are back details like price, market cap, twitter, etc. The second request is to get historical data that I used to make the data alive! With that request, I generated candle charts using the highcharts.com component. 
+[Coingecko API](https://www.coingecko.com/api/documentations/v3) provides trending searches and I used that for the home page. Once the user clicks, it fetches two separate request to gather more data about a specific cryptocurrency. The first request returns back details like price, market cap, twitter, etc. The second request is to get historical data that I used to make the data alive! With that request, I generated candle charts using the highcharts.com component. 
 
-A user can also post comments, but only when they are logged in. I used Twitter as the login process. I used the OAuth gem. Then I used rails session along with the front end react to verify who the current user is. 
+A User can also post comments, but only when they are logged in. I used Twitter as the login process. I used the OmniAuth-Twitter gem. Then I used rails session along with the front end react to verify who the current user is. 
 
 ## Challenges
 
-The most challenging for me was Redux, following the data flow took me a while to understand. I had to use developer plugins with Chrome browser for better visualization and flow to fetching. I used this [Redux Dev Tools](https://github.com/zalmoxisus/redux-devtools-extension), it's really pretty cool. 
+The most challenging for me was Redux, following the data flow took me a while to understand. I had to use developer plugins with Chrome browser for better visualization and to follow the fetching sequence. I used this [Redux Dev Tools](https://github.com/zalmoxisus/redux-devtools-extension), it's really pretty cool. 
 
 
 ## Next
