@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "React Redux and Rails Final Project"
+title:      "React, Redux and Rails Final Project"
 date:       2021-01-11 14:39:27 -0500
 permalink:  react_redux_and_rails_final_project
 ---
@@ -22,6 +22,7 @@ It's an app for cryptocurrency and stocks data visualization.
 
 [Coingecko API](https://www.coingecko.com/api/documentations/v3) provides trending searches and I used that for the home page. Once the user clicks, it fetches two separate request to gather more data about a specific cryptocurrency. The first request returns back details like price, market cap, twitter, etc. The second request is to get historical data that I used to make the data alive! With that request, I generated candle charts using the highcharts.com component. 
 
+
 A User can also post comments, but only when they are logged in. I used Twitter as the login process. I used the OmniAuth-Twitter gem. Then I used rails session along with the front end react to verify who the current user is. 
 
 ## Challenges
@@ -33,4 +34,6 @@ The most challenging for me was Redux, following the data flow took me a while t
 
 I like how the project turned out. Lots of things I still want to add, but for now, its a good Minimum Viable Product that scratches my own itch. I wanted a website that can display mutiple stock charts in one page and I was able to do that. I also wanted a search bar that searches Coingecko and therefore skipping the ads and other fluffy non essestial details. I wanted interactive charts, and with the help of Highcharts component and Tradingview widget, I was able to implement it in the app.
 
-I will update this post with my youtube walkthrough as soon as it finishes uploading. Thanks.
+## See demo below
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B1-YHROsui8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
